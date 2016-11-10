@@ -1,5 +1,5 @@
 +++
-banner = "forestryio/images/foodchain.jpg"
+banner = "/forestryio/images/tv-screen.svg"
 categories = ["season6", "episodes"]
 date = "2014-06-12T00:00:00+00:00"
 description = "Finn and Jake learn about the food chain by becoming the food chain."
@@ -7,7 +7,7 @@ draft = false
 title = "Food Chain (Season 6)"
 
 +++
-The episode begins with candy children that have bodies resembling different shapes sliding down a slide, shouting with excitement. The kids are viewed from an horizontal angle in the next scene as they go through a playground-like structure.<!--more--> Finn and Jake are examining the 'Catapilla Family'. After watching Princess Bubblegum teach the children about the Food Chain, they head to the snack bar as Finn found Princess Bubblegum's class useless.
+The episode begins with candy children that have bodies resembling different shapes sliding down a slide, shouting with excitement. The kids are viewed from an horizontal angle in the next scene as they go through a playground-like structure. Finn and Jake are examining the 'Catapilla Family'. After watching Princess Bubblegum teach the children about the Food Chain, they head to the snack bar as Finn found Princess Bubblegum's class useless.
 
 a change
 
@@ -23,6 +23,6 @@ Finn and Jake spot [Erin](http://adventuretime.wikia.com/wiki/Erin) who faint
 
 The scene changes into a leaf with a group of caterpillars with Jake hosting the marriage. Finn agrees to the marriage and everyone cheers. Suddenly, two birds are shown flying to the leaf, eating the caterpillars. Finn and Jake then changes into the birds eating the caterpillars until Finn was back into reality. Finn had caterpillars stuffed in his mouth in which he spitted them out.
 
-Back into the reality, Finn realizes the lesson of the Food Chain and sings "[Food Chain](http://adventuretime.wikia.com/wiki/Food_Chain_\(song\))", which PB soon joins singing with him.
+Back into the reality, Finn realizes the lesson of the Food Chain and sings "[Food Chain](http://adventuretime.wikia.com/wiki/Food_Chain_(song))", which PB soon joins singing with him.
 
 The end shows Finn transforming into a bird-caterpillar-plant-bacteria hybrid while the kids leave due to boredom, once again entering the slide seen in the beginning.
