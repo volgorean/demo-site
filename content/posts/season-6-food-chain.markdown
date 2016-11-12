@@ -2,7 +2,7 @@
 banner = "/forestryio/images/tv-screen.svg"
 categories = ["season6", "episodes"]
 date = "2014-06-12T00:00:00+00:00"
-description = "Finn and Jake learn about the food chain by becoming the food chain."
+description = "lol, boll, doll"
 draft = false
 title = "Food Chain (Season 6)"
 
