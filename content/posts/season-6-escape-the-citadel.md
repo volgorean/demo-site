@@ -2,7 +2,7 @@
 banner = "forestryio/images/citadel.jpg"
 categories = ["season6", "episodes"]
 date = "2014-04-21T00:00:00+00:00"
-description = ["cake", "dog"]
+description = "cake, dog"
 draft = false
 title = "Escape from the Citadel (Season 6)"
 
