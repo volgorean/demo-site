@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cakes on Adventure Time!</title>
+    <link>http://forestrydemosite.com/cakes/index.xml</link>
+    <description>Recent content in Cakes on Adventure Time!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2017 14:20:42 +0000</lastBuildDate>
+    <atom:link href="http://forestrydemosite.com/cakes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>loldol</title>
+      <link>http://forestrydemosite.com/cakes/loldol/</link>
+      <pubDate>Wed, 15 Feb 2017 14:20:42 +0000</pubDate>
+      
+      <guid>http://forestrydemosite.com/cakes/loldol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
